@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_delete.png"
     },
     {
-        "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_language_switch.png",
-        "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_language_switch.png"
-    },
-    {
         "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_en_us.png",
         "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\icon_en_us.png"
+    },
+    {
+        "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_language_switch.png",
+        "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_language_switch.png"
     },
     {
         "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_done.png",
@@ -22,6 +22,10 @@
     {
         "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_space.png",
         "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_iw_il.png",
+        "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-mdpi\\icon_iw_il.png"
     },
     {
         "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_return.png",

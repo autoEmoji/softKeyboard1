@@ -146,11 +146,11 @@
                 "from": {
                     "file": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 1578,
+                        "startOffset": 1633,
                         "endColumn": 52,
-                        "endOffset": 1626
+                        "endOffset": 1681
                     }
                 }
             },
@@ -273,17 +273,17 @@
                     "startLine": 16,
                     "startColumn": 4,
                     "startOffset": 793,
-                    "endColumn": 68,
-                    "endOffset": 857
+                    "endColumn": 54,
+                    "endOffset": 843
                 },
                 "from": {
                     "file": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 37,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1442,
-                        "endColumn": 68,
-                        "endOffset": 1506
+                        "startOffset": 1331,
+                        "endColumn": 54,
+                        "endOffset": 1381
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 862,
-                    "endColumn": 66,
-                    "endOffset": 924
+                    "startOffset": 848,
+                    "endColumn": 68,
+                    "endOffset": 912
                 },
                 "from": {
                     "file": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1511,
-                        "endColumn": 66,
-                        "endOffset": 1573
+                        "startOffset": 1497,
+                        "endColumn": 68,
+                        "endOffset": 1561
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 929,
-                    "endColumn": 71,
-                    "endOffset": 996
+                    "startOffset": 917,
+                    "endColumn": 66,
+                    "endOffset": 979
                 },
                 "from": {
                     "file": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 1370,
-                        "endColumn": 71,
-                        "endOffset": 1437
+                        "startOffset": 1566,
+                        "endColumn": 66,
+                        "endOffset": 1628
                     }
                 }
             },
@@ -329,9 +329,28 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1001,
+                    "startOffset": 984,
+                    "endColumn": 71,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1425,
+                        "endColumn": 71,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1056,
                     "endColumn": 82,
-                    "endOffset": 1079
+                    "endOffset": 1134
                 },
                 "from": {
                     "file": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\values\\strings.xml",

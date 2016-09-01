@@ -5,14 +5,14 @@
         jar="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="faab905a3af271ad05b1599b8451444755fe714c">
+        sha1="d4c66a96c61c9f3d06bfec715ae8865bf1c1e3d2">
         <dex dex="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_768fa01ea52d1438a975c62eb72ec1df8ead49e2\classes.dex" />
     </item>
     <item
         jar="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="989cc150513d59ee5c996af9d841959bea85796d">
+        sha1="c72c61d790adfaff7fd7608b3cc43c11b0ee37fb">
         <dex dex="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f18b6c4c6327ca330143c943d40dc83865900ee8\classes.dex" />
     </item>
 

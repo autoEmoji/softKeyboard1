@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_language_switch.png"
     },
     {
+        "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_iw_il.png",
+        "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-hdpi\\icon_iw_il.png"
+    },
+    {
         "merged": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_done.png",
         "source": "C:\\Users\\Nir\\AndroidStudioProjects\\SoftKeyboard1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_done.png"
     },

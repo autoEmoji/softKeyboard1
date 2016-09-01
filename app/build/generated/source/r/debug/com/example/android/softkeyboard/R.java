@@ -24,13 +24,14 @@ public final class R {
     public static final class drawable {
         public static final int icon_en_gb=0x7f020000;
         public static final int icon_en_us=0x7f020001;
-        public static final int sym_keyboard_delete=0x7f020002;
-        public static final int sym_keyboard_done=0x7f020003;
-        public static final int sym_keyboard_language_switch=0x7f020004;
-        public static final int sym_keyboard_return=0x7f020005;
-        public static final int sym_keyboard_search=0x7f020006;
-        public static final int sym_keyboard_shift=0x7f020007;
-        public static final int sym_keyboard_space=0x7f020008;
+        public static final int icon_iw_il=0x7f020002;
+        public static final int sym_keyboard_delete=0x7f020003;
+        public static final int sym_keyboard_done=0x7f020004;
+        public static final int sym_keyboard_language_switch=0x7f020005;
+        public static final int sym_keyboard_return=0x7f020006;
+        public static final int sym_keyboard_search=0x7f020007;
+        public static final int sym_keyboard_shift=0x7f020008;
+        public static final int sym_keyboard_space=0x7f020009;
     }
     public static final class id {
         public static final int keyboard=0x7f080000;
@@ -46,10 +47,11 @@ public final class R {
         public static final int label_send_key=0x7f070004;
         public static final int label_subtype_en_GB=0x7f070005;
         public static final int label_subtype_generic=0x7f070006;
-        public static final int language_selection_title=0x7f070007;
-        public static final int select_language=0x7f070008;
-        public static final int settings_name=0x7f070009;
-        public static final int word_separators=0x7f07000a;
+        public static final int label_subtype_iw_IL=0x7f070007;
+        public static final int language_selection_title=0x7f070008;
+        public static final int select_language=0x7f070009;
+        public static final int settings_name=0x7f07000a;
+        public static final int word_separators=0x7f07000b;
     }
     public static final class xml {
         public static final int ime_preferences=0x7f040000;

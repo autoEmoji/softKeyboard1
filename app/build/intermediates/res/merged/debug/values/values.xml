@@ -14,6 +14,7 @@
     <string name="label_send_key">Send</string>
     <string name="label_subtype_en_GB">English (GB)</string>
     <string name="label_subtype_generic">%s</string>
+    <string name="label_subtype_iw_IL">Hebrew</string>
     <string name="language_selection_title">Input languages</string>
     <string name="select_language">Select input languages</string>
     <string name="settings_name">Sample Soft Keyboard Settings</string>
