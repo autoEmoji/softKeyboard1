@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="faab905a3af271ad05b1599b8451444755fe714c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_768fa01ea52d1438a975c62eb72ec1df8ead49e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="989cc150513d59ee5c996af9d841959bea85796d">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\SoftKeyboard1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f18b6c4c6327ca330143c943d40dc83865900ee8\classes.dex" />
+    </item>
+
+</items>
